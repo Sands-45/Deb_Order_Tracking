@@ -177,12 +177,11 @@ iframe{
 	margin-top:1%;
 }
 #delivery-details{
+	max-width:290px;
 	white-space:nowrap;
 	font-size:18px;
 	margin-top: 10%;
-	
-	margin-right:40%;
-	margin-left:25%;
+	text-align:left;
 	border:solid 2px #ccc;
 	padding:5px;
 	border-radius:5px;
