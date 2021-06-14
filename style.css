@@ -174,7 +174,21 @@ width: 75%;
 	color:white;
 }
 iframe{
-	margin-top:20%;
+	margin-top:1%;
+}
+#delivery-details{
+	white-space:nowrap;
+	font-size:18px;
+	margin-top: 18%;
+	
+	margin-right:40%;
+	margin-left:25%;
+	border:solid 2px #ccc;
+	padding:5px;
+	border-radius:5px;
+}
+#delivery-details span{
+	color:#e12027
 }
 /*----------------------------------------------------------*/
 @media (max-width:1300px){
