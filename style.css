@@ -48,6 +48,10 @@ nav h3{
   background-color: #f31f11;
   color: white;
 }
+.not_active a:hover {
+  background-color: #f31f11;
+  color: white;
+}
 .active {
   color: #c3c3c3 !important;
 }
