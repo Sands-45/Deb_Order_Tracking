@@ -44,7 +44,6 @@ nav li a {
 nav h3{
 	padding-top:8px;
 }
-.not_active:hover {
 nav h3:hover {
   border-bottom:2px solid #f31f11 !important;
   color: #c3c3c3;
