@@ -45,10 +45,13 @@ nav h3{
 	padding-top:8px;
 }
 .not_active:hover {
-  background-color: #f31f11;
+  background: #f31f11;
   color: white;
 }
 .not_active a:hover {
+  background-color: #f31f11;
+}
+.not_active h3:hover {
   background-color: #f31f11;
   color: white;
 }
